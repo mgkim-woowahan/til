@@ -1,0 +1,8 @@
+### OnPageSelectedListener vs OnTabSelectedListener
+
+
+
+Page는 처음엔 안불리고 페이지가 이동이 일어날때 불린다.
+
+Tab은 처음에 화면이 그려지면서 먼저 한번 불린다.
+
